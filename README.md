@@ -59,11 +59,13 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Circuit Diagram
 
+![EBD COMPONENT(1)(1)](https://github.com/user-attachments/assets/d8d86b03-d712-4064-92c9-343b62b3554a)
 
 
 
 # Output
 
+![Screenshot 2025-02-28 145219](https://github.com/user-attachments/assets/9fae2bf8-e704-42bf-ae6a-80ad9f77aaa5)
 
 
 
